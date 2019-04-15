@@ -48,4 +48,5 @@ implementation 'com.github.qzc0537:MultiStatusView:1.0.2'
         mStatusView.showLoading();
         mStatusView.showEmpty();
         mStatusView.showContent();
+        multipleStatusView.setOnRetryClickListener
         ......
